@@ -310,12 +310,6 @@ The system supports continuous learning through:
 - **Secure Deployment**: Containerized and isolated execution
 - **Version Control**: Model versioning and rollback capabilities
 
-## 📚 Documentation
-
-- [API Reference](docs/api.md)
-- [Configuration Guide](docs/configuration.md)
-- [Deployment Guide](docs/deployment.md)
-- [Troubleshooting](docs/troubleshooting.md)
 
 ## 🤝 Contributing
 
@@ -325,9 +319,6 @@ The system supports continuous learning through:
 4. Add tests
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
