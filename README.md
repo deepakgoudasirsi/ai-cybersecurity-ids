@@ -336,13 +336,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Streamlit for the dashboard framework
 - The cybersecurity research community
 
-## 📞 Support
-
-For support and questions:
-- Create an issue on GitHub
-- Check the documentation
-- Contact the development team
-
 ---
 
 **⚠️ Disclaimer**: This system is designed for educational and research purposes. Always follow your organization's security policies and legal requirements when deploying in production environments.
